@@ -18,7 +18,16 @@ A modern, minimal React app with authentication, custom UI animations, and socia
     ⚡ Deployed on Vercel
 
     💡 Responsive design & clean layout
+🧠 AI Voice Agent with ElevenLabs
 
+Using ElevenLabs for lifelike voice interaction.
+How to Integrate:
+
+    Get your ElevenLabs API Key
+
+    Use fetch() or ElevenLabs SDK to generate speech from text
+
+    Play the resulting audio in browser using Audio API
 🛠️ Tech Stack
 
     React 18+
