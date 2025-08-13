@@ -46,7 +46,7 @@ const Header = () => {
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Nsanjayboruds/REACT-MINI"
               target="_blank"
               className="inline-flex items-center justify-center gap-1.5 rounded-full bg-[#23272f] px-5 py-3 text-white transition hover:text-gray-300 focus:outline-none focus:ring"
               type="button"
